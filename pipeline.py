@@ -9,9 +9,6 @@ mosaicDir = os.path.join(r"mosaic")
 outputVrtFile =  "mosaic_vrt.vrt"
 outputMosaicTif = "mosaic.tif"
 
-
-
-
 def prepare():
   makeFolder(output1Dir)
   makeFolder(output2Dir)
