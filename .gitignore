@@ -1,0 +1,9 @@
+raw/*
+output1/*
+output2/*
+mosaic/*
+*.vrt
+!raw/.gitkeep
+!output1/.gitkeep
+!output2/.gitkeep
+!mosaic/.gitkeep

@@ -1,0 +1,1 @@
+gdalbuildvrt mosaic_vrt.vrt output2/*.tif

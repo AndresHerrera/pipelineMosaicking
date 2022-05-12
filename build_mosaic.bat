@@ -1,0 +1,1 @@
+gdal_translate mosaic_vrt.vrt mosaic/mosaic.tif
